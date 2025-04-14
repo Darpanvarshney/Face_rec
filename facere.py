@@ -13,7 +13,7 @@ def speak(audio) :
   engine.say(audio)
   engine.runAndWait()
 
-authorized_images = ["img\krishna.jpg","img\master.jpg","img\mummyjiii.jpg","img\papajii.jpg" ]
+authorized_images = [# add images to give access ]
 
 known_face_encodings = []
 known_face_names = []
