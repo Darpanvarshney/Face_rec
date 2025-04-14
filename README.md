@@ -1,2 +1,2 @@
 # Face_rec
-Face recogination 
+you can clone this file and make a folder to store those images 
